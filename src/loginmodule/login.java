@@ -9,6 +9,8 @@ public class login {
 		System.out.println("passward");
 		
 		System.out.println("tweyfgifeho");
+		 
+		System.out.println("chichacho");
 		
 	}
 }
